@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kitten1",
+    "name": "Kitten Call 1",
+    "nameZh": "小猫叫声1",
+    "nameJa": "子猫の鳴き声1",
+    "file": "/audios/kitten1.mp3",
+    "description": "Soft kitten mewing sound that attracts adult cats",
+    "descriptionZh": "轻柔的小猫叫声，吸引成年猫咪",
+    "descriptionJa": "成猫を引き寄せる優しい子猫の鳴き声"
+  },
+  {
+    "id": "kitten2",
+    "name": "Kitten Call 2",
+    "nameZh": "小猫叫声2",
+    "nameJa": "子猫の鳴き声2",
+    "file": "/audios/kitten2.mp3",
+    "description": "Playful kitten sounds for curious cats",
+    "descriptionZh": "活泼的小猫声音，吸引好奇的猫咪",
+    "descriptionJa": "好奇心の強い猫を引き寄せる遊び好きな子猫の声"
+  },
+  {
+    "id": "kitten3",
+    "name": "Kitten Call 3",
+    "nameZh": "小猫叫声3",
+    "nameJa": "子猫の鳴き声3",
+    "file": "/audios/kitten3.mp3",
+    "description": "Distressed kitten call that triggers protective instincts",
+    "descriptionZh": "小猫求救声，激发母性本能",
+    "descriptionJa": "母性本能を刺激する困った子猫の鳴き声"
+  },
+  {
+    "id": "kitten4",
+    "name": "Kitten Call 4",
+    "nameZh": "小猫叫声4",
+    "nameJa": "子猫の鳴き声4",
+    "file": "/audios/kitten4.mp3",
+    "description": "Happy kitten purring and mewing",
+    "descriptionZh": "快乐的小猫呼噘和叫声",
+    "descriptionJa": "幸せな子猫のゴロゴロ声と鳴き声"
+  },
+  {
+    "id": "kitten5",
+    "name": "Kitten Call 5",
+    "nameZh": "小猫叫声5",
+    "nameJa": "子猫の鳴き声5",
+    "file": "/audios/kitten5.mp3",
+    "description": "Multiple kittens playing together",
+    "descriptionZh": "多只小猫一起玩耐的声音",
+    "descriptionJa": "複数の子猫が一緒に遊んでいる声"
+  },
+  {
+    "id": "can_opener",
+    "name": "Can Opening Sound",
+    "nameZh": "开罐头声音",
+    "nameJa": "缶を開ける音",
+    "file": "/audios/can_opener.mp3",
+    "description": "Classic can opener sound - irresistible to most cats",
+    "descriptionZh": "经典开罐头声音 - 对大多数猫咪都无法抵抗",
+    "descriptionJa": "クラシックな缶を開ける音 - ほとんどの猫にとって抵抗できない"
+  },
+  {
+    "id": "feeder_kibble",
+    "name": "Feeder Kibble Sound",
+    "nameZh": "喂食器颗粒声",
+    "nameJa": "フィーダーのキブル音",
+    "file": "/audios/feeder_kibble.mp3",
+    "description": "Sound of dry kibble being dispensed from automatic feeder",
+    "descriptionZh": "自动喂食器投放干粮的声音",
+    "descriptionJa": "自動給餌器からドライフードが出てくる音"
+  },
+  {
+    "id": "toy_bell",
+    "name": "Toy Bell Sound",
+    "nameZh": "玩具铃铛声",
+    "nameJa": "おもちゃの鈴の音",
+    "file": "/audios/toy_bell.mp3",
+    "description": "Gentle bell sound from cat toys that sparks curiosity",
+    "descriptionZh": "猫咪玩具上的轻柔铃铛声，激发好奇心",
+    "descriptionJa": "好奇心を刺激する猫のおもちゃの優しい鈴の音"
+  },
+  {
+    "id": "treat_bag",
+    "name": "Treat Bag Sound",
+    "nameZh": "零食袋声音",
+    "nameJa": "おやつの袋の音",
+    "file": "/audios/treat_bag.mp3",
+    "description": "Rustling sound of treat bag being opened",
+    "descriptionZh": "打开零食袋的沙沙声",
+    "descriptionJa": "おやつの袋を開けるガサガサ音"
+  }
+]

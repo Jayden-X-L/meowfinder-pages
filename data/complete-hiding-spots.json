@@ -1,0 +1,86 @@
+[
+  {
+    "id": "under_bed",
+    "name": "Under Bed",
+    "nameZh": "床下",
+    "nameJa": "ベッドの下",
+    "category": "indoor",
+    "priority": "high",
+    "difficulty": "easy",
+    "searchTips": [
+      "Use a flashlight to look under all beds",
+      "Check both the head and foot of the bed",
+      "Look for glowing eyes reflecting light",
+      "Shake treat bag while searching"
+    ],
+    "searchTipsZh": [
+      "使用手电筒检查所有床铺下方",
+      "检查床头和床尾两侧",
+      "寻找反射光线的发亮眼睛",
+      "搜寻时摇动零食袋"
+    ],
+    "searchTipsJa": [
+      "フラッシュライトですべてのベッドの下を確認",
+      "ベッドの頭側と足側の両方をチェック",
+      "光を反射する光る目を探す",
+      "検索中はおやつの袋を振る"
+    ],
+    "safetyTips": [
+      "Be gentle when moving furniture",
+      "Watch for signs of injury if cat seems stuck",
+      "Don't use loud noises that might scare them further"
+    ],
+    "safetyTipsZh": [
+      "移动家具时要轻柔",
+      "如果猫咪看起来被卡住，要注意受伤迹象",
+      "不要使用大声噪音，以免进一步吓到它们"
+    ],
+    "safetyTipsJa": [
+      "家具を動かすときは優しく",
+      "猫が挡っているようならけがの兆候に注意",
+      "さらに怖がらせる大きな音は使わない"
+    ]
+  },
+  {
+    "id": "inside_closets",
+    "name": "Inside Closets",
+    "nameZh": "衣柜内",
+    "nameJa": "クローゼットの中",
+    "category": "indoor",
+    "priority": "high",
+    "difficulty": "moderate",
+    "searchTips": [
+      "Check all closets, including rarely used ones",
+      "Look behind hanging clothes",
+      "Check shoe areas and storage boxes",
+      "Listen for movement or breathing sounds"
+    ],
+    "searchTipsZh": [
+      "检查所有衣柜，包括很少使用的",
+      "查看悬挂衣物后面",
+      "检查鞋区和储物盒",
+      "倾听移动或呼吸声"
+    ],
+    "searchTipsJa": [
+      "あまり使わないものも含めてすべてのクローゼットをチェック",
+      "ハンガーにかけた服の後ろを確認",
+      "靴エリアや収納ボックスをチェック",
+      "動きや呼吸音に耳を澄ます"
+    ],
+    "safetyTips": [
+      "Check if closet doors were left open",
+      "Be careful when moving stored items",
+      "Ensure proper ventilation if cat is found"
+    ],
+    "safetyTipsZh": [
+      "检查衣柜门是否打开着",
+      "移动储藏物品时要小心",
+      "如果找到猫咪，要确保通风良好"
+    ],
+    "safetyTipsJa": [
+      "クローゼットの扉が開いたままだったかチェック",
+      "保管してある物を動かすときは注意",
+      "猫が見つかったら適切な換気を確保"
+    ]
+  }
+]

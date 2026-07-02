@@ -1,0 +1,21 @@
+{
+  "name": "MeowFinder - Find My Cat",
+  "short_name": "MeowFinder",
+  "description": "Professional tool to help find missing or hiding cats using realistic sounds and comprehensive guides",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#ec4899",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["utilities", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}

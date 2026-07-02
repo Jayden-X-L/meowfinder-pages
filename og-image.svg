@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="MeowFinder social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff1f2"/>
+      <stop offset="0.55" stop-color="#fdf2f8"/>
+      <stop offset="1" stop-color="#fff7ed"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="970" cy="175" r="88" fill="#fef3c7"/>
+  <path d="M190 296 145 128l158 105a276 276 0 0 1 178 0l158-105-45 168a248 248 0 0 1 50 150c0 112-91 154-252 154s-252-42-252-154a248 248 0 0 1 50-150Z" fill="#fff" stroke="#f9a8d4" stroke-width="10"/>
+  <circle cx="310" cy="390" r="24" fill="#111827"/>
+  <circle cx="474" cy="390" r="24" fill="#111827"/>
+  <path d="M376 450h32l-16 24-16-24Z" fill="#ec4899"/>
+  <path d="M310 500c39 35 125 35 164 0" fill="none" stroke="#111827" stroke-width="16" stroke-linecap="round"/>
+  <path d="M735 184c75 0 136 61 136 136" fill="none" stroke="url(#accent)" stroke-width="22" stroke-linecap="round"/>
+  <path d="M735 247c40 0 73 33 73 73" fill="none" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M735 309c6 0 11 5 11 11" fill="none" stroke="url(#accent)" stroke-width="16" stroke-linecap="round"/>
+  <text x="680" y="420" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="800">MeowFinder</text>
+  <text x="683" y="482" fill="#4b5563" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500">Find your hiding cat with familiar sounds</text>
+</svg>

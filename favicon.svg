@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MeowFinder">
+  <rect width="64" height="64" rx="16" fill="#ec4899"/>
+  <path d="M17 27 13 14l12 8a23 23 0 0 1 14 0l12-8-4 13a20 20 0 0 1 4 12c0 12-8 19-19 19s-19-7-19-19a20 20 0 0 1 4-12Z" fill="#fff7ed"/>
+  <circle cx="25" cy="35" r="3" fill="#1f2937"/>
+  <circle cx="39" cy="35" r="3" fill="#1f2937"/>
+  <path d="M30 42h4l-2 3-2-3Z" fill="#ec4899"/>
+  <path d="M25 47c3 3 11 3 14 0" fill="none" stroke="#1f2937" stroke-width="3" stroke-linecap="round"/>
+</svg>

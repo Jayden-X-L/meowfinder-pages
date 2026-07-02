@@ -1,0 +1,212 @@
+[
+  {
+    "id": "under_bed",
+    "name": "Under Bed",
+    "nameZh": "床下",
+    "nameJa": "ベッドの下",
+    "category": "indoor",
+    "priority": "high",
+    "difficulty": "easy",
+    "searchTips": [
+      "Use a flashlight to look under all beds",
+      "Check both the head and foot of the bed",
+      "Look for glowing eyes reflecting light",
+      "Shake treat bag while searching"
+    ],
+    "searchTipsZh": [
+      "使用手电筒检查所有床铺下方",
+      "检查床头和床尾两侧",
+      "寻找反射光线的发亮眼睛",
+      "搜寻时摇动零食袋"
+    ],
+    "searchTipsJa": [
+      "フラッシュライトですべてのベッドの下を確認",
+      "ベッドの頭側と足側の両方をチェック",
+      "光を反射する光る目を探す",
+      "検索中はおやつの袋を振る"
+    ],
+    "safetyTips": [
+      "Be gentle when moving furniture",
+      "Watch for signs of injury if cat seems stuck",
+      "Don't use loud noises that might scare them further"
+    ],
+    "safetyTipsZh": [
+      "移动家具时要轻柔",
+      "如果猫咪看起来被卡住，要注意受伤迹象",
+      "不要使用大声噪音，以免进一步吓到它们"
+    ],
+    "safetyTipsJa": [
+      "家具を動かすときは優しく",
+      "猫が、っているようならけがの兆候に注意",
+      "さらに怖がらせる大きな音は使わない"
+    ]
+  },
+  {
+    "id": "inside_closets",
+    "name": "Inside Closets",
+    "nameZh": "衣柜内",
+    "nameJa": "クローゼットの中",
+    "category": "indoor",
+    "priority": "high",
+    "difficulty": "moderate",
+    "searchTips": [
+      "Check all closets, including rarely used ones",
+      "Look behind hanging clothes",
+      "Check shoe areas and storage boxes",
+      "Listen for movement or breathing sounds"
+    ],
+    "searchTipsZh": [
+      "检查所有衣柜，包括很少使用的",
+      "查看悬挂衣物后面",
+      "检查鞋区和储物盒",
+      "倾听移动或呼吸声"
+    ],
+    "searchTipsJa": [
+      "あまり使わないものも含めてすべてのクローゼットをチェック",
+      "ハンガーにかけた服の後ろを確認",
+      "靴エリアや収納ボックスをチェック",
+      "動きや呼吸音に耳を澄ます"
+    ],
+    "safetyTips": [
+      "Check if closet doors were left open",
+      "Be careful when moving stored items",
+      "Ensure proper ventilation if cat is found"
+    ],
+    "safetyTipsZh": [
+      "检查衣柜门是否打开着",
+      "移动储藏物品时要小心",
+      "如果找到猫咪，要确保通风良好"
+    ],
+    "safetyTipsJa": [
+      "クローゼットの扉が開いたままだったかチェック",
+      "保管してある物を動かすときは注意",
+      "猫が見つかったら適切な換気を確保"
+    ]
+  },
+  {
+    "id": "behind_curtains",
+    "name": "Behind Curtains",
+    "nameZh": "窗帘后",
+    "nameJa": "カーテンの後ろ",
+    "category": "indoor",
+    "priority": "medium",
+    "difficulty": "easy",
+    "searchTips": [
+      "Gently lift curtains and drapes",
+      "Check window sills and ledges",
+      "Look for paw prints on window glass",
+      "Check both floor-length and short curtains"
+    ],
+    "searchTipsZh": [
+      "轻柔地抬起窗帘和幔帘",
+      "检查窗台和窗澄",
+      "在窗户玻璃上寻找爪印",
+      "检查落地窗帘和短窗帘"
+    ],
+    "searchTipsJa": [
+      "カーテンやドレープを優しく持ち上げる",
+      "窓台や縁をチェック",
+      "窓ガラスに肉球の跡がないか探す",
+      "フロア丈と短いカーテンの両方をチェック"
+    ],
+    "safetyTips": [
+      "Be gentle with curtain fabric",
+      "Check for open windows that cat might escape through",
+      "Look for signs of climbing or scratching"
+    ],
+    "safetyTipsZh": [
+      "对待窗帘面料要轻柔",
+      "检查猫咪可能逃脱的打开的窗户",
+      "寻找攀爬或抓挚的迹象"
+    ],
+    "safetyTipsJa": [
+      "カーテンの生地に優しく接する",
+      "猫が逃げる可能性のある開いた窓をチェック",
+      "登ったり引っかいたりした形跡を探す"
+    ]
+  },
+  {
+    "id": "under_couch",
+    "name": "Under Couch",
+    "nameZh": "沙发下",
+    "nameJa": "ソファの下",
+    "category": "indoor",
+    "priority": "high",
+    "difficulty": "moderate",
+    "searchTips": [
+      "Use flashlight or phone light",
+      "Check if couch has enough clearance",
+      "Look from multiple angles",
+      "Try calling cat's name softly"
+    ],
+    "searchTipsZh": [
+      "使用手电筒或手机照明",
+      "检查沙发是否有足够的间隙",
+      "从多个角度查看",
+      "轻声呼唤猫咪的名字"
+    ],
+    "searchTipsJa": [
+      "フラッシュライトやスマホのライトを使用",
+      "ソファに十分な隙間があるかチェック",
+      "複数の角度から見る",
+      "猫の名前を優しく呼んでみる"
+    ],
+    "safetyTips": [
+      "Don't move heavy furniture alone",
+      "Be careful of sharp furniture legs",
+      "Check if cat might be injured before moving"
+    ],
+    "safetyTipsZh": [
+      "不要独自移动重的家具",
+      "小心尖锐的家具腿",
+      "移动前检查猫咪是否可能受伤"
+    ],
+    "safetyTipsJa": [
+      "重い家具を一人で動かさない",
+      "家具の足の尖った部分に注意",
+      "動かす前に猫がけがをしていないかチェック"
+    ]
+  },
+  {
+    "id": "in_couch_cushions",
+    "name": "In Couch Cushions",
+    "nameZh": "沙发垃子内",
+    "nameJa": "ソファのクッションの中",
+    "category": "indoor",
+    "priority": "medium",
+    "difficulty": "easy",
+    "searchTips": [
+      "Gently lift and check each cushion",
+      "Look for displaced or flattened cushions",
+      "Check between cushions and frame",
+      "Feel for warm spots or movement"
+    ],
+    "searchTipsZh": [
+      "轻柔地抬起和检查每个垃子",
+      "寻找被移位或压平的垃子",
+      "检查垃子和框架之间",
+      "感受温热的地方或移动"
+    ],
+    "searchTipsJa": [
+      "各クッションを優しく持ち上げてチェック",
+      "ズレたり平らになったクッションを探す",
+      "クッションとフレームの間をチェック",
+      "温かい部分や動きを感じる"
+    ],
+    "safetyTips": [
+      "Be gentle when lifting cushions",
+      "Watch for signs of stress if cat is found",
+      "Allow cat to come out naturally"
+    ],
+    "safetyTipsZh": [
+      "抬起垃子时要轻柔",
+      "如果找到猫咪，要注意压力迹象",
+      "让猫咪自然出来"
+    ],
+    "safetyTipsJa": [
+      "クッションを持ち上げるときは優しく",
+      "猫が見つかったらストレスの兆候に注意",
+      "猫が自然に出てくるのを待つ"
+    ]
+  }
+]
