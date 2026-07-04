@@ -21,43 +21,43 @@
   },
   {
     "id": "kitten3",
-    "name": "Distressed Kitten Call",
-    "nameZh": "小猫求救声",
-    "nameJa": "困った子猫の声",
+    "name": "Urgent Kitten Call",
+    "nameZh": "急促小猫呼唤",
+    "nameJa": "急ぎめの子猫の呼び声",
     "file": "/audios/kitten3.mp3",
-    "description": "Distressed kitten call that triggers protective instincts",
-    "descriptionZh": "小猫求救声，激发母性本能",
-    "descriptionJa": "母性本能を刺激する困った子猫の鳴き声"
+    "description": "Short, repeated kitten calls for cats that respond to sharper meows",
+    "descriptionZh": "短促、连续的小猫呼唤，适合会回应尖细叫声的猫咪",
+    "descriptionJa": "短く繰り返す子猫の声。高めの鳴き声に反応する猫向け"
   },
   {
     "id": "kitten4",
-    "name": "Happy Kitten Purr",
-    "nameZh": "快乐小猫呼噜声",
-    "nameJa": "幸せな子猫のゴロゴロ声",
+    "name": "Long Kitten Meow",
+    "nameZh": "拖长小猫叫声",
+    "nameJa": "長めの子猫の鳴き声",
     "file": "/audios/kitten4.mp3",
-    "description": "Happy kitten purring and mewing",
-    "descriptionZh": "快乐的小猫呼噜和叫声",
-    "descriptionJa": "幸せな子猫のゴロゴロ声と鳴き声"
+    "description": "Longer kitten meows with a softer, drawn-out tone",
+    "descriptionZh": "拖长的小猫叫声，语气更柔和、持续更久",
+    "descriptionJa": "やわらかく長めに続く子猫の鳴き声"
   },
   {
     "id": "kitten5",
-    "name": "Multiple Kittens Playing",
-    "nameZh": "多只小猫玩耍声",
-    "nameJa": "複数の子猫が遊ぶ声",
+    "name": "Busy Kitten Meows",
+    "nameZh": "密集小猫叫声",
+    "nameJa": "にぎやかな子猫の鳴き声",
     "file": "/audios/kitten5.mp3",
-    "description": "Multiple kittens playing together",
-    "descriptionZh": "多只小猫一起玩耍的声音",
-    "descriptionJa": "複数の子猫が一緒に遊んでいる声"
+    "description": "Denser kitten meows with more movement and variation",
+    "descriptionZh": "更密集的小猫叫声，变化更多、存在感更强",
+    "descriptionJa": "変化が多く、存在感のある子猫の鳴き声"
   },
   {
     "id": "can_opener",
-    "name": "Can Opening Sound",
-    "nameZh": "开罐头声音",
-    "nameJa": "缶を開ける音",
+    "name": "Can Lid Rattle",
+    "nameZh": "罐头盖拨动声",
+    "nameJa": "缶のふたを動かす音",
     "file": "/audios/can_opener.mp3",
-    "description": "Classic can opener sound - irresistible to most cats",
-    "descriptionZh": "经典开罐头声音 - 对大多数猫咪都无法抵抗",
-    "descriptionJa": "クラシックな缶を開ける音 - ほとんどの猫にとって抵抗できない"
+    "description": "Metal can lid being moved or rattled, useful for cats that react to can sounds",
+    "descriptionZh": "拨动罐头盖或金属边缘的轻响，适合对罐头声音敏感的猫咪",
+    "descriptionJa": "缶のふたや金属の縁を動かす音。缶の音に反応する猫向け"
   },
   {
     "id": "feeder_kibble",
@@ -81,12 +81,12 @@
   },
   {
     "id": "treat_bag",
-    "name": "Treat Bag Sound",
-    "nameZh": "零食袋声音",
-    "nameJa": "おやつの袋の音",
+    "name": "Can Opening Sound",
+    "nameZh": "开罐头声音",
+    "nameJa": "缶を開ける音",
     "file": "/audios/treat_bag.mp3",
-    "description": "Rustling sound of treat bag being opened",
-    "descriptionZh": "打开零食袋的沙沙声",
-    "descriptionJa": "おやつの袋を開けるガサガサ音"
+    "description": "The familiar sound of a can being opened with a can opener",
+    "descriptionZh": "用开罐器打开罐头时的熟悉声音",
+    "descriptionJa": "缶切りで缶を開けるときの慣れた音"
   }
 ]

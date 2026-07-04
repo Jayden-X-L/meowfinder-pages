@@ -8,8 +8,8 @@
     "priority": "high",
     "difficulty": "easy",
     "searchTips": ["Use a flashlight and check every side of the bed", "Look for eyeshine, paw movement, or a tail tip", "Pause after a short treat-bag sound and listen"],
-    "searchTipsZh": ["用手电筒从床的每一侧检查", "寻找眼睛反光、爪子移动或尾巴尖", "短暂播放零食袋声音后停下来倾听"],
-    "searchTipsJa": ["ライトでベッドの全方向を確認する", "目の反射、足の動き、しっぽの先を探す", "おやつ袋の音を短く鳴らした後に静かに聞く"],
+    "searchTipsZh": ["用手电筒从床的每一侧检查", "寻找眼睛反光、爪子移动或尾巴尖", "短暂播放罐头盖拨动声后停下来倾听"],
+    "searchTipsJa": ["ライトでベッドの全方向を確認する", "目の反射、足の動き、しっぽの先を探す", "缶のふたを動かす音を短く鳴らした後に静かに聞く"],
     "safetyTips": ["Move storage boxes slowly", "Do not push long tools under the bed", "Stop if the cat seems trapped or injured"],
     "safetyTipsZh": ["慢慢移动床下储物盒", "不要把长工具伸进床下乱戳", "如果猫像是被困或受伤，立即停止并求助"],
     "safetyTipsJa": ["収納箱はゆっくり動かす", "棒などをベッド下に押し込まない", "閉じ込めやけがが疑われる場合は止める"]
