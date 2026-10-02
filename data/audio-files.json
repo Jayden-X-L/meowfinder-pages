@@ -5,29 +5,32 @@
     "nameZh": "轻柔小猫呼唤",
     "nameJa": "やさしい子猫の呼び声",
     "file": "/audios/kitten1.mp3",
-    "description": "Soft kitten mewing sound that attracts adult cats",
-    "descriptionZh": "轻柔的小猫叫声，吸引成年猫咪",
-    "descriptionJa": "成猫を引き寄せる優しい子猫の鳴き声"
+    "description": "A soft, high-pitched kitten call. Try only briefly and watch your cat's reaction.",
+    "descriptionZh": "轻柔、偏高的小猫叫声。短暂尝试，并观察猫的反应。",
+    "descriptionJa": "やさしく高めの子猫の声。短く試し、猫の様子を見てください。",
+    "kind": "kitten_call"
   },
   {
     "id": "kitten2",
     "name": "Playful Kitten Sounds",
     "nameZh": "活泼小猫叫声",
-    "nameJa": "遊び好きな子猫の声",
+    "nameJa": "元気な子猫の鳴き声",
     "file": "/audios/kitten2.mp3",
-    "description": "Playful kitten sounds for curious cats",
-    "descriptionZh": "活泼的小猫声音，吸引好奇的猫咪",
-    "descriptionJa": "好奇心の強い猫を引き寄せる遊び好きな子猫の声"
+    "description": "Lively kitten calls with changing pitch.",
+    "descriptionZh": "活泼、音调有变化的小猫叫声。",
+    "descriptionJa": "高さに変化のある、元気な子猫の鳴き声。",
+    "kind": "kitten_call"
   },
   {
     "id": "kitten3",
     "name": "Urgent Kitten Call",
     "nameZh": "急促小猫呼唤",
-    "nameJa": "急ぎめの子猫の呼び声",
+    "nameJa": "短く繰り返す子猫の声",
     "file": "/audios/kitten3.mp3",
     "description": "Short, repeated kitten calls for cats that respond to sharper meows",
     "descriptionZh": "短促、连续的小猫呼唤，适合会回应尖细叫声的猫咪",
-    "descriptionJa": "短く繰り返す子猫の声。高めの鳴き声に反応する猫向け"
+    "descriptionJa": "高めの声で短く繰り返す子猫の鳴き声。",
+    "kind": "kitten_call"
   },
   {
     "id": "kitten4",
@@ -37,7 +40,8 @@
     "file": "/audios/kitten4.mp3",
     "description": "Longer kitten meows with a softer, drawn-out tone",
     "descriptionZh": "拖长的小猫叫声，语气更柔和、持续更久",
-    "descriptionJa": "やわらかく長めに続く子猫の鳴き声"
+    "descriptionJa": "やわらかく長めに続く子猫の鳴き声",
+    "kind": "kitten_call"
   },
   {
     "id": "kitten5",
@@ -47,7 +51,8 @@
     "file": "/audios/kitten5.mp3",
     "description": "Denser kitten meows with more movement and variation",
     "descriptionZh": "更密集的小猫叫声，变化更多、存在感更强",
-    "descriptionJa": "変化が多く、存在感のある子猫の鳴き声"
+    "descriptionJa": "鳴き声が続き、音の変化が多い子猫の声。",
+    "kind": "kitten_call"
   },
   {
     "id": "can_opener",
@@ -55,19 +60,21 @@
     "nameZh": "罐头盖拨动声",
     "nameJa": "缶のふたを動かす音",
     "file": "/audios/can_opener.mp3",
-    "description": "Metal can lid being moved or rattled, useful for cats that react to can sounds",
-    "descriptionZh": "拨动罐头盖或金属边缘的轻响，适合对罐头声音敏感的猫咪",
-    "descriptionJa": "缶のふたや金属の縁を動かす音。缶の音に反応する猫向け"
+    "description": "Small metallic rattles as a can lid is moved. This is not the can-opening recording.",
+    "descriptionZh": "拨动罐头盖时的轻微金属响声，不是打开罐头的录音。",
+    "descriptionJa": "缶のふたを動かしたときの小さな金属音。缶を開ける録音とは異なります。",
+    "kind": "can_lid"
   },
   {
     "id": "feeder_kibble",
     "name": "Feeder Kibble Sound",
     "nameZh": "喂食器颗粒声",
-    "nameJa": "フィーダーのキブル音",
+    "nameJa": "自動給餌器のフードの音",
     "file": "/audios/feeder_kibble.mp3",
     "description": "Sound of dry kibble being dispensed from automatic feeder",
     "descriptionZh": "自动喂食器投放干粮的声音",
-    "descriptionJa": "自動給餌器からドライフードが出てくる音"
+    "descriptionJa": "自動給餌器からドライフードが出てくる音",
+    "kind": "feeder"
   },
   {
     "id": "toy_bell",
@@ -75,9 +82,10 @@
     "nameZh": "玩具铃铛声",
     "nameJa": "おもちゃの鈴の音",
     "file": "/audios/toy_bell.mp3",
-    "description": "Gentle bell sound from cat toys that sparks curiosity",
-    "descriptionZh": "猫咪玩具上的轻柔铃铛声，激发好奇心",
-    "descriptionJa": "好奇心を刺激する猫のおもちゃの優しい鈴の音"
+    "description": "Light ringing from a bell on a cat toy.",
+    "descriptionZh": "猫咪玩具上铃铛的轻柔响声。",
+    "descriptionJa": "猫のおもちゃに付いた鈴の、やさしい音。",
+    "kind": "toy_bell"
   },
   {
     "id": "treat_bag",
@@ -85,8 +93,9 @@
     "nameZh": "开罐头声音",
     "nameJa": "缶を開ける音",
     "file": "/audios/treat_bag.mp3",
-    "description": "The familiar sound of a can being opened with a can opener",
-    "descriptionZh": "用开罐器打开罐头时的熟悉声音",
-    "descriptionJa": "缶切りで缶を開けるときの慣れた音"
+    "description": "The sound of opening a can, distinct from rattling the lid.",
+    "descriptionZh": "打开罐头时的声音，与拨动罐头盖的轻响不同。",
+    "descriptionJa": "缶を開けるときの音。ふたを動かす音とは異なります。",
+    "kind": "can_opening"
   }
 ]
